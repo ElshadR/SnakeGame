@@ -1,0 +1,10 @@
+c:\users\hp\source\repos\SnakeGames\SnakeGames\bin\Debug\SnakeGames.exe.config
+c:\users\hp\source\repos\SnakeGames\SnakeGames\bin\Debug\SnakeGames.exe
+c:\users\hp\source\repos\SnakeGames\SnakeGames\bin\Debug\SnakeGames.pdb
+c:\users\hp\source\repos\SnakeGames\SnakeGames\obj\Debug\SnakeGames.csprojResolveAssemblyReference.cache
+c:\users\hp\source\repos\SnakeGames\SnakeGames\obj\Debug\SnakeGames.Properties.Resources.resources
+c:\users\hp\source\repos\SnakeGames\SnakeGames\obj\Debug\SnakeGames.csproj.GenerateResource.Cache
+c:\users\hp\source\repos\SnakeGames\SnakeGames\obj\Debug\SnakeGames.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\SnakeGames\SnakeGames\obj\Debug\SnakeGames.exe
+c:\users\hp\source\repos\SnakeGames\SnakeGames\obj\Debug\SnakeGames.pdb
+c:\users\hp\source\repos\SnakeGames\SnakeGames\obj\Debug\SnakeGames.Snake.resources
